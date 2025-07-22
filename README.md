@@ -64,7 +64,9 @@ This project includes an Excel VBA script that automates the process of summariz
 
 ---
 
-## 📷 Screenshots
+## 📷 <img width="579" height="375" alt="image" src="https://github.com/user-attachments/assets/7a494260-3d5e-4032-aa49-1b2226f6c8f4" />
+<img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/a0fd7937-f23c-4ba1-8135-f2d0566f9d8b" />
+
 
 *(Add screenshots of your Excel sheets and summary tab here)*
 
